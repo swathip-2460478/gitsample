@@ -1,1 +1,1 @@
-This is he space to implement the add to cart feature
+This is the space to  the add to cart feature
